@@ -20,6 +20,6 @@ function Colour(){
     )
 }
 function sum(){
-    return 10+10;
+    return 10+10+10;
 }
 export default Header;
