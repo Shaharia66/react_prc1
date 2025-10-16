@@ -23,8 +23,9 @@ function App() {
       <Userkey/>
       <p>{a+b}</p> */}
       {/* <Dog/> */}
-      /
+      {/* <Practice/> */}
     </>
   )
 }
 export default App;
+

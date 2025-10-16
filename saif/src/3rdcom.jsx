@@ -34,7 +34,7 @@ function Practice(){
         <h4>{sum(32,23,"-")}</h4>
         <h3>{sum(32,56)}</h3>
         <h1>{userobj.school}</h1>
-        <input type="text" value={name} id={userobj.roll}/>
+        <input type="text" value={userobj.name} id={userobj.roll}/>
         <img src={path} />
 
         </>
